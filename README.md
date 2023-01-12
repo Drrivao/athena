@@ -1,6 +1,5 @@
 # terabitSec
 
-Conjunto de ferramentas de automação para o TG.
 Tools for TG automations
 
 ### Dependencies
